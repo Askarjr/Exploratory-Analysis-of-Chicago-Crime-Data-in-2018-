@@ -1,0 +1,2 @@
+# Exploratory-Analysis-of-Chicago-Crime-Data-in-2018-
+Crime has been a prevalent anti-social trait in the human society since time immemorial. Crime follows a pattern. Understanding these crime patterns and criminal behaviour would largely strengthen the police force. Through our project, we aim to analyse patterns in crime and unearth insights into several questions that can aid police to understand crime patterns.
